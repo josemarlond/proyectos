@@ -1,3 +1,3 @@
 # proyectos
 Clases youtube
-Primer Repositorio donde se subiran los proyectos que he realizado de clases en youtube.
+Primer Repositorio - Donde se subiran los proyectos que he realizado en youtube.
